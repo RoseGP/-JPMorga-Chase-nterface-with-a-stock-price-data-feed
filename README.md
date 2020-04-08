@@ -1,4 +1,4 @@
-# -JPMorga-Chase-nterface-with-a-stock-price-data-feed
+# JPMorga-Chase-nterface-with-a-stock-price-data-feed
 Software Engineering Virtual Experience https://www.insidesherpa.com/modules/
 Welcome! This repository contains source files for Software Engineering Virtual Experience insidesherpa
 
